@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Frontend Mentor: Solution URL]()
-- [Vercel: Live Site URL]()
+- [Frontend Mentor: Solution URL](https://www.frontendmentor.io/solutions/order-summary-component-using-react-khKnWJjFo)
+- [Vercel: Live Site URL](https://order-summary-component-dun.vercel.app/)
 
 ## My process
 
